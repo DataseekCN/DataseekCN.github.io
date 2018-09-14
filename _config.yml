@@ -13,11 +13,11 @@ people:
   pic: 1
   position: Chief Operating Officer
   social:
-    - title: Github
+    - title: github
       url: https://user3301.github.io
-    - title: Linkedin
+    - title: linkedin
       url: https://linkedin.com/in/zhelungai
-    - title: Leetcode
+    - title: code
       url: https://leetcode.com/user3301
 
 - name: Larry Parker
