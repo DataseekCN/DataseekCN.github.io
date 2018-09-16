@@ -20,9 +20,9 @@ people:
     - title: code
       url: https://leetcode.com/user3301
 
-- name: Larry Parker
+- name: Shangming Tao
   pic: 2
-  position: Lead Marketer
+  position: Lead Developer
   social:
     - title: twitter
       url: #
@@ -31,7 +31,7 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Aihua Zhao
   pic: 3
   position: Lead Developer
   social:
