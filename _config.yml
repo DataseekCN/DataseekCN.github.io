@@ -9,14 +9,14 @@ description: ""
 
 # Team names, titles and social links
 people:
-- name: Zhelun Gai
+- name: User 3301
   pic: 1
   position: Chief Operating Officer
   social:
     - title: github
       url: https://user3301.github.io
     - title: linkedin
-      url: https://linkedin.com/in/zhelungai
+      url: https://linkedin.com/in/user3301
     - title: code
       url: https://leetcode.com/user3301
 
